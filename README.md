@@ -21,18 +21,27 @@ Decode:
 - find the value of name of array and it's position
 
 ### Example
+
 Encode: Zech
+
 Z = H[9] -> H9
+
 e = E[8] -> e8
+
 c = E[6] -> e6
+
 h = C[1] -> c1
 
 Therefore, Zech = H9e8e6c1
 
 Decode: E5h1c8c7
+
 E5 = B
+
 h1 = r
+
 c8 = o
+
 c7 = n
 
 Therefore, E5h1c8c7 = Bron
