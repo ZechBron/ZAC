@@ -1,4 +1,9 @@
-# Zech Array 0'9
+# Zech's Array Cipher also known as Z.A.C
+[![Author](https://img.shields.io/badge/Author-Zech%20Bron-red?style=for-the-badge)](https://github.com/ZechBron)
+
+This is my own cipher. Same idea of Multidimentional Array in programming languages.
+
+## Zech Array 0'9
 
 [![Author](https://img.shields.io/badge/Author-Zech%20Bron-red?style=for-the-badge)](https://github.com/ZechBron)
 
@@ -9,7 +14,6 @@ E     | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
 C     | G | H | I | J | K | L | M | N | O | P |
 H     | Q | R | S | T | U | V | W | X | Y | Z |
 
-This is my own cipher. Same idea of Multidimentional Array in programming languages.
 
 Encode:
 - print name of array
