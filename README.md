@@ -1,11 +1,9 @@
-# Zech's Array Cipher also known as Z.A.C
+# **Zech's Array Cipher** also known as **Z.A.C**
 [![Author](https://img.shields.io/badge/Author-Zech%20Bron-red?style=for-the-badge)](https://github.com/ZechBron)
 
 This is my own cipher. Same idea of Multidimentional Array in programming languages.
 
 ## Zech Array 0'9
-
-[![Author](https://img.shields.io/badge/Author-Zech%20Bron-red?style=for-the-badge)](https://github.com/ZechBron)
 
 Blank | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 |---|---|---|---|---|---|---|---|---|---|---|
