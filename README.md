@@ -47,4 +47,5 @@ c7 = n
 Therefore, E5h1c8c7 = Bron
 
 
-### I have wild imagination. But I don't know how to program this shit.
+### Special Thanks To:
+@ShellTear - Code Implementation in Go Lang
